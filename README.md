@@ -39,13 +39,6 @@
 
 ---
 
- Objetivo
-
-Conquistar minha primeira oportunidade como desenvolvedor,  
-aplicando meus conhecimentos na prática e contribuindo com soluções que gerem valor real.
-
----
-
 <div align="center">
 
  *“Transformando conhecimento em soluções reais.”*
