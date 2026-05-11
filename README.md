@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Joaquim%20Salvador&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descSize=16&descAlignY=58&descColor=a8b4c8)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Joaquim%20Salvador&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20Developer&amp;descSize=16&amp;descAlignY=58&amp;descColor=a8b4c8)
 
 </div>
 
@@ -49,7 +49,7 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 
 ---
 
-### 🔗 [Email Classifier](https://github.com/Joaquim-Salvador/email-classifier)
+### 🔗 [Classificador de emails](https://github.com/Joaquim-Salvador/classificadorEmails)
 > Classificador de e-mails que identifica padrões em texto utilizando técnicas de processamento de linguagem natural.
 
 **Stack:** Python  
@@ -57,7 +57,7 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 
 ---
 
-### 🔗 [Certificate Generator](https://github.com/Joaquim-Salvador/certificate-generator)
+### 🔗 [Gerador de Certificado](https://github.com/Joaquim-Salvador/gerador-certificado)
 > Sistema web para geração automatizada de certificados com preenchimento dinâmico de dados.
 
 **Stack:** Angular · TypeScript  
