@@ -1,8 +1,4 @@
- align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Joaquim%20Salvador&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20Developer&amp;descSize=16&amp;descAlignY=58&amp;descColor=a8b4c8)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Joaquim%20Salvador&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descSize=16&descAlignY=58&descColor=a8b4c8)
 
 ## 👋 Sobre mim
 
@@ -49,7 +45,7 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 
 ---
 
-### 🔗 [Classificador de emails](https://github.com/Joaquim-Salvador/classificadorEmails)
+### 🔗 [Classificador de Emails](https://github.com/Joaquim-Salvador/classificadorEmails)
 > Classificador de e-mails que identifica padrões em texto utilizando técnicas de processamento de linguagem natural.
 
 **Stack:** Python  
@@ -67,28 +63,16 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 
 ## 📊 GitHub Stats
 
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaquim-Salvador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquim-Salvador&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-
 
 ---
 
 ## 📬 Contato
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquim-pietro-salvador-233165323)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquimlennertz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joaquim-Salvador)
 
-</div>
-
-<div align="center">
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer)
-
-</div>
