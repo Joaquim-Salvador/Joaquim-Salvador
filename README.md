@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Joaquim%20Salvador&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descSize=16&descAlignY=58&descColor=a8b4c8)
+# Joaquim Salvador
 
 ## 👋 Sobre mim
 
@@ -74,5 +74,3 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquim-pietro-salvador-233165323)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquimlennertz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joaquim-Salvador)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer)
