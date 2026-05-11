@@ -1,8 +1,8 @@
-<div align="center">
+ align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Joaquim%20Salvador&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20Developer&amp;descSize=16&amp;descAlignY=58&amp;descColor=a8b4c8)
 
-</div>
+
 
 ## 👋 Sobre mim
 
@@ -67,13 +67,13 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaquim-Salvador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquim-Salvador&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-</div>
+
 
 ---
 
