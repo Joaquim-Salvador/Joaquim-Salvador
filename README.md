@@ -59,15 +59,6 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 **Stack:** Angular · TypeScript  
 **Destaques:** Interface responsiva, geração de documentos dinâmicos, integração de dados via formulário.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaquim-Salvador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquim-Salvador&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
----
 
 ## 📬 Contato
 
