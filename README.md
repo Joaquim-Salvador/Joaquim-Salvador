@@ -37,7 +37,6 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 
 ## 📂 Projetos
 
-### 🔗 [Voltaki](https://github.com/Joaquim-Salvador/voltaki)
 > API REST para uma plataforma de reconciliação romântica com mensagens personalizadas, slideshows de fotos e músicas de fundo.
 
 **Stack:** Java · Spring Boot · PostgreSQL · Gemini AI (Google)  
