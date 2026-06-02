@@ -36,7 +36,7 @@ Estou em busca da minha **primeira oportunidade profissional** como desenvolvedo
 ---
 
 ## 📂 Projetos
-
+> Voltaki
 > API REST para uma plataforma de reconciliação romântica com mensagens personalizadas, slideshows de fotos e músicas de fundo.
 
 **Stack:** Java · Spring Boot · PostgreSQL · Gemini AI (Google)  
