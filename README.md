@@ -34,29 +34,28 @@ Sou desenvolvedor em início de carreira, de Joinville (SC). Trabalho principalm
 ## Projetos
 
 <p align="center">
-  <a href="https://github.com/Joaquim-Salvador/ClassificadorEmails">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joaquim-Salvador&repo=ClassificadorEmails&bg_color=000000&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&border_color=14532D" alt="Card do projeto ClassificadorEmails" />
-  </a>
-  <a href="https://github.com/Joaquim-Salvador/gerador-certificado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joaquim-Salvador&repo=gerador-certificado&bg_color=000000&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&border_color=14532D" alt="Card do projeto gerador-certificado" />
-  </a>
+  <a href="https://github.com/Joaquim-Salvador/ClassificadorEmails"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaquim-Salvador&repo=ClassificadorEmails&bg_color=000000&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&border_color=14532D" alt="Card do projeto ClassificadorEmails" /></a>
+  <a href="https://github.com/Joaquim-Salvador/gerador-certificado"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaquim-Salvador&repo=gerador-certificado&bg_color=000000&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&border_color=14532D" alt="Card do projeto gerador-certificado" /></a>
 </p>
 
-**📧 Classificador de Emails** · [código](https://github.com/Joaquim-Salvador/ClassificadorEmails) · [versão online](https://classificadoremails-1.onrender.com/)
-Aplicação web que classifica emails como *Produtivo* ou *Improdutivo* usando a API da OpenAI (GPT-4o Mini) e gera uma resposta automática. Aceita texto digitado ou arquivos `.txt` e `.pdf`, e tem dashboard e histórico.
-<br/>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=22C55E" alt="Python" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=22C55E" alt="Flask" />
-<img src="https://img.shields.io/badge/OpenAI%20API-000000?style=flat-square" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=chartdotjs&logoColor=22C55E" alt="Chart.js" />
+<p>
+  <b>📧 Classificador de Emails</b> · <a href="https://github.com/Joaquim-Salvador/ClassificadorEmails">código</a> · <a href="https://classificadoremails-1.onrender.com/">versão online</a><br/>
+  Aplicação web que classifica emails como <i>Produtivo</i> ou <i>Improdutivo</i> usando a API da OpenAI (GPT-4o Mini) e gera uma resposta automática. Aceita texto digitado ou arquivos <code>.txt</code> e <code>.pdf</code>, e tem dashboard e histórico.<br/>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=22C55E" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=22C55E" alt="Flask" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-000000?style=flat-square" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=chartdotjs&logoColor=22C55E" alt="Chart.js" />
+</p>
 
-> O deploy usa o plano gratuito do Render: no primeiro acesso o servidor pode levar alguns minutos para acordar.
+<blockquote>O deploy usa o plano gratuito do Render: no primeiro acesso o servidor pode levar alguns minutos para acordar.</blockquote>
 
-**🎓 Gerador de Certificados** · [código](https://github.com/Joaquim-Salvador/gerador-certificado) · [versão online](https://gerador-certificado-gratis.netlify.app)
-Aplicação web em Angular para gerar certificados e exportá-los em PDF. Funciona como um CRUD: dá para criar, listar, editar e excluir certificados.
-<br/>
-<img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=22C55E" alt="Angular" />
-<img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=22C55E" alt="Netlify" />
+<p>
+  <b>🎓 Gerador de Certificados</b> · <a href="https://github.com/Joaquim-Salvador/gerador-certificado">código</a> · <a href="https://gerador-certificado-gratis.netlify.app">versão online</a><br/>
+  Aplicação web em Angular para gerar certificados e exportá-los em PDF. Funciona como um CRUD: dá para criar, listar, editar e excluir certificados.<br/>
+  <img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=22C55E" alt="Angular" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=22C55E" alt="Netlify" />
+</p>
+
 ---
 
 ## Estatísticas
