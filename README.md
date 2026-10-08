@@ -53,11 +53,10 @@ Aplicação web que classifica emails como *Produtivo* ou *Improdutivo* usando a
 > O deploy usa o plano gratuito do Render: no primeiro acesso o servidor pode levar alguns minutos para acordar.
 
 **🎓 Gerador de Certificados** · [código](https://github.com/Joaquim-Salvador/gerador-certificado) · [versão online](https://gerador-certificado-gratis.netlify.app)
-Aplicação web em Angular para gerar certificados, publicada na Netlify.
+Aplicação web em Angular para gerar certificados e exportá-los em PDF. Funciona como um CRUD: dá para criar, listar, editar e excluir certificados.
 <br/>
 <img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=22C55E" alt="Angular" />
 <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=22C55E" alt="Netlify" />
-
 ---
 
 ## Estatísticas
